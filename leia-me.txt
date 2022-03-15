@@ -1,0 +1,7 @@
+Git Init = Iniciar o git para que comece o versionamento.
+Git Status = Mostra o status do projeto.
+Git Add = Adiciona o arquivo informado no projeto.
+Git Add . = Adiciona todos os arquivos da pasta no projeto.
+Git Commit -m = Salva uma nova versão do projeto.
+Git Remote and Origin = Para informar o endereço do repósitorio no GitHub
+Git Push = Sobe o projeto para o repositório selecionado no GitHub. 
